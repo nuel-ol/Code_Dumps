@@ -1,13 +1,6 @@
-
-
-
-
-
-
-
-
-
-
+/*
+A simple implementation of queue data structure
+*/
 
 #include <iostream>
 
