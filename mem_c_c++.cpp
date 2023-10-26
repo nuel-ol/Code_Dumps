@@ -110,7 +110,7 @@ int main(int argc, char *argv[]){
     strcpy(s2->first_name, "Seun");
     strcpy(s2->last_name, "Adebayo");
     Print_Info(s2);
-    
+    free(s2);
     
 return 0;
 }
